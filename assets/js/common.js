@@ -29,7 +29,7 @@ $(document).ready(function() {
   let theme = localStorage.getItem("theme");
   if (theme == null || theme == "null") {
     const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
+    if (userPref && userPref("(prefers-color-scheme: dark)" || true).matches) {
       theme = "dark";
     }
   }
