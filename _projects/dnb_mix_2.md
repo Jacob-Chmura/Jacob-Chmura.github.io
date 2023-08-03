@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: DNB Mix \# 2
+description: Description 2 
+img: assets/img/7.jpg
+redirect: https://soundcloud.com/user-886315693/kuba-dnb-mix-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+importance: 3
+category: Drum & Bass
 ---
 
 Every project has a beautiful feature showcase page.

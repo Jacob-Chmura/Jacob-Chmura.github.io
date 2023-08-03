@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+title: DNB Mix \#3
+description: Description 3
+img: assets/img/7.jpg
+redirect: https://soundcloud.com/user-886315693/kuba-dnb-mix-4?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+importance: 3
+category: Drum & Bass
 ---
 
 Every project has a beautiful feature showcase page.

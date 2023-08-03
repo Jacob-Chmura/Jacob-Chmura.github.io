@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Position Based Fluid Simulation
+description: Description
+img: assets/img/7.jpg
+redirect: https://github.com/Jacob-Chmura/PBF
+importance: 3
+category: software
 ---
 
 Every project has a beautiful feature showcase page.

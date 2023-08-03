@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Sard's Theorem, Morse Theory, and Applications
+description: Description 
+img: assets/img/7.jpg
+redirect: https://github.com/Jacob-Chmura/MorseTheory/blob/main/Morse_Theory.pdf
 importance: 3
-category: fun
+category: technical reports
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: DNB Mix \#1
+description: Description 1
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://soundcloud.com/user-886315693/kuba-dnb-mix-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 importance: 3
-category: work
+category: Drum & Bass
 ---
 
 Every project has a beautiful feature showcase page.
