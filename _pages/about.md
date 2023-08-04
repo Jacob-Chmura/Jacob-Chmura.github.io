@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Moto. Etc.
+subtitle: <em>Machine Learning Engineer</em>
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  address: Toronto, Canada
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -16,8 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently working in [applied deep reinforcement learning at RBC](https://www.rbccm.com/en/expertise/electronic-trading/ai-trading.page).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My primary research interests are statistical decision theory, representation learning, and optimization. In particular, I am interested in how [compression based objectives](https://arxiv.org/pdf/0812.4360.pdf) can give rise to representations that improve sample efficiency and accelerate exploration. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also fascinated by the intersection of machine learning and systems,  designing a runtime that supports efficient training and inference of large-scale machine learning models in production.
+
+
