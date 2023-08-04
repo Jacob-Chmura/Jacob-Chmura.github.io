@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Morse Theory and Applications
+title: Morse Theory
 description: Description 
-img: assets/img/7.jpg
+img: assets/img/morse.png
 redirect: https://github.com/Jacob-Chmura/MorseTheory/blob/main/Morse_Theory.pdf
 importance: 3
 category: technical reports

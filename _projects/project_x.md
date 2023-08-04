@@ -2,7 +2,7 @@
 layout: page
 title: Undergraduate AI Research Competition
 description: Description
-img: assets/img/7.jpg
+img: assets/img/uoftai.jpg
 redirect: https://www.uoft.ai/projectx-2020
 importance: 3
 category: community

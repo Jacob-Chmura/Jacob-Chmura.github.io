@@ -2,7 +2,7 @@
 layout: page
 title: Fluid Simulation
 description: Description
-img: assets/img/7.jpg
+img: assets/img/waves.gif
 redirect: https://github.com/Jacob-Chmura/PBF
 importance: 3
 category: software

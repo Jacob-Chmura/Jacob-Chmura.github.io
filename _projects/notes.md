@@ -2,7 +2,7 @@
 layout: page
 title: Notes 
 description: Descriptionsdf 
-img: assets/img/7.jpg
+img: assets/img/notes.png
 redirect: https://github.com/Jacob-Chmura/Notes
 importance: 3
 category: technical reports
