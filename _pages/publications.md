@@ -16,7 +16,7 @@ nav_order: 2
 <h1>conference &amp; journal articles</h1>
 {% bibliography -f papers %}
 
-<h1>patents</h1>
+<h1>patents (pending)</h1>
 {% bibliography -f patents %}
 
 </div>

@@ -22,4 +22,3 @@ My primary research interests are statistical decision theory, representation le
 
 I am also fascinated by the intersection of machine learning and systems,  designing a runtime that supports efficient training and inference of large-scale machine learning models in production.
 
-

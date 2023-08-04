@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project X 2020 | Undergraduate AI Research Competition
+title: Undergraduate AI Research Competition
 description: Description
 img: assets/img/7.jpg
 redirect: https://www.uoft.ai/projectx-2020

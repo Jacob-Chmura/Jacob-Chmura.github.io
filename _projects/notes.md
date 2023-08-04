@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Misc. Notes
+title: Notes 
 description: Descriptionsdf 
 img: assets/img/7.jpg
 redirect: https://github.com/Jacob-Chmura/Notes

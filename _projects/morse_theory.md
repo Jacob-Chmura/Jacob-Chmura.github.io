@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sard's Theorem, Morse Theory, and Applications
+title: Morse Theory and Applications
 description: Description 
 img: assets/img/7.jpg
 redirect: https://github.com/Jacob-Chmura/MorseTheory/blob/main/Morse_Theory.pdf

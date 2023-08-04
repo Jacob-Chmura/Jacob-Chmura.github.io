@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Position Based Fluid Simulation
+title: Fluid Simulation
 description: Description
 img: assets/img/7.jpg
 redirect: https://github.com/Jacob-Chmura/PBF
