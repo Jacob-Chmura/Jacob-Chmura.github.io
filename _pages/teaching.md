@@ -2,7 +2,7 @@
 layout: page
 permalink: /music/
 title: music
-description: In my free time, I like to dj. Here are some of my mixes. 
+description: I like to dj. Here are some of my mixes. 
 nav: true
 nav_order: 5
 display_categories: [Drum & Bass]
