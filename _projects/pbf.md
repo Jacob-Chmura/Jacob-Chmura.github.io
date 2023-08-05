@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Fluid Simulation
-description: Description
+description: <em>Position Based Fluids</em>
 img: assets/img/waves.gif
-redirect: https://github.com/Jacob-Chmura/PBF
 importance: 3
 category: software
 ---

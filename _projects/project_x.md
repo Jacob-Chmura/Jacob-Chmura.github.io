@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Undergraduate AI Research Competition
-description: Description
+description: <em>Organizer, Research team </em>.
 img: assets/img/uoftai.jpg
 redirect: https://www.uoft.ai/projectx-2020
 importance: 3
