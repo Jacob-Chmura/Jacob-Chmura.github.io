@@ -8,7 +8,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: Toronto, Canada
+  address: 📍 Toronto, Canada
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts

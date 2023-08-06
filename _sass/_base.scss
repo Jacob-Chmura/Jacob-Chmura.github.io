@@ -121,6 +121,8 @@ blockquote {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    font-size: 0.875rem;
+
 
     p {
       display: inline-block;
@@ -302,11 +304,17 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  text-align: left;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 0.5rem;
 
+    a:first-of-type {
+        margin-right: 1em;
+    }
+    a:last-of-type {
+        margin-left: 1em;
+    }
     a {
       i::before {
         color: var(--global-text-color);
