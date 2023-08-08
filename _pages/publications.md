@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: RESEARCH
-description: Here is the research I have done.
+description:
 nav: true
 nav_order: 2
 ---

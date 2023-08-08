@@ -7,7 +7,7 @@ subtitle: <em>Machine Learning Engineer</em>
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: 📍 Toronto, Canada
 
 news: false # includes a list of news items
