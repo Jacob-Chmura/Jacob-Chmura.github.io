@@ -213,6 +213,7 @@ blockquote {
   }
 
   .navbar-nav .nav-item .nav-link {
+    font-size: 0.65rem;
     color: var(--global-text-color);
 
     &:hover {
@@ -338,7 +339,7 @@ blockquote {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.65rem;
   text-align: center;
 
   .container {
