@@ -163,6 +163,8 @@ blockquote {
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
+  align-items:left;
+  text-align: left;
 
   a {
     color: inherit;
@@ -317,13 +319,13 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 0.5rem;
+    font-size: 0.2rem;
 
     a:first-of-type {
-        margin-right: 1em;
+        margin-right: 4em;
     }
     a:last-of-type {
-        margin-left: 1em;
+        margin-left: 4em;
     }
     a {
       i::before {
