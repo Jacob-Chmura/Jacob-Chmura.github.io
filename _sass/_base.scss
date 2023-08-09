@@ -116,13 +116,15 @@ blockquote {
 
 .profile {
   width: 100%;
+  text-align: center;
+  align-items:center;
 
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
     font-size: 0.875rem;
-
+    text-align: center;
 
     p {
       display: inline-block;
@@ -137,6 +139,13 @@ blockquote {
 
 .profile.float-left {
   margin-right: 1rem;
+}
+
+.profile.float-center {
+  vertical-align:middle;
+  align-items:center;
+  margin:auto;
+  display:block;
 }
 
 @media (min-width: 576px) {
@@ -305,7 +314,7 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: left;
+  text-align: center;
 
   .contact-icons {
     font-size: 0.5rem;
@@ -435,9 +444,14 @@ footer.sticky-bottom {
 }
 
 .post-title {
+  text-align: center;
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
+}
+
+.post-header {
+    text-align: center;
 }
 
 .post-list {
