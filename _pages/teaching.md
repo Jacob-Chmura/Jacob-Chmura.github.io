@@ -5,10 +5,9 @@ title: MUSIC
 description: I like to dj. Here are some of my mixes. 
 nav: true
 nav_order: 5
-display_categories: [Drum & Bass]
+display_categories: [Drum & Bass, Piano]
 horizontal: false
 ---
-
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
