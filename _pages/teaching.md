@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /music/
-title: MUSIC
+title: Music
 description: I like to dj. Here are some of my mixes. 
 nav: true
 nav_order: 5
