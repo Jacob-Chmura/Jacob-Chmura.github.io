@@ -18,21 +18,20 @@ social: true # includes social icons at the bottom of the page
 
 <hr>
 
-I'm currently working in [applied deep reinforcement learning at RBC](https://www.rbccm.com/en/expertise/electronic-trading/ai-trading.page). My efforts are evenly split between research and engineering. 
-On the research front, I'm building predictive models to tackle the [order routing problem](https://en.wikipedia.org/wiki/Smart_order_routing) and
-investigating information theoretic signals that accelerate learning in sparse reward environments. 
-Previously, I developed a multi-objective reinforcement learning framework *(patent pending)*, that finds policies on the pareto front and enables few-shot adaptation to linear preferences at inference time.
-On the engineering side, I'm focused on increasing training throughput, reducing inference latency, and lowering GPU memory requirements all around.
+I’m currently working in [deep reinforcement learning at RBC](https://www.rbccm.com/en/expertise/electronic-trading/ai-trading.page). 
+On the research front, I’m building predictive models that tackle the [order routing problem](https://en.wikipedia.org/wiki/Smart_order_routing) and investigating compression-based self-supervised objectives to accelerate learning in sparse reward environments. 
+Previously, I developed a multi-objective reinforcement learning framework *(patent pending)* for personalized trading that enables few-shot adaptation across client trading preferences. 
+On the engineering side, I’m focused on increasing learning throughput, lowering GPU memory requirements in our training stack, and developing architectural changes for efficient market data sequence modelling.
 
-Before RBC, I was a reseacher at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/), applying machine learning to solve problems in cancer genomics.
-Specifically, I investigated the extent to which bayesian methods, ensembles, and second order optimization could reduce rare cancer missclassification rates.
-I ran a feature importance analysis, and worked on a information-theoretic algorithm that segments the genome based on regional mutation density patterns, reducing the average number of mutations required to discriminate cancer types.
+Before RBC, I was a researcher at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/), applying machine learning to solve problems in cancer genomics. 
+Specifically, I investigated how Bayesian methods, ensembles, and second-order optimization could reduce rare cancer misclassification. 
+I also worked on an [information-theoretic algorithm](https://pubmed.ncbi.nlm.nih.gov/31797603/) that segments the genome based on regional mutation density patterns, reducing the number of mutations required to discriminate cancer types.
 
-My primary research interests are statistical decision theory, representation learning, and self-supervision. 
-In particular, I want to build the [foundation model](https://en.wikipedia.org/wiki/Foundation_models) for control. 
-In this direction, I believe [compression based objectives](https://arxiv.org/pdf/0812.4360.pdf) can give rise to generalized representations that improve sample efficiency and accelerate exploration.
+My long-term goal is to build embodied decision-making agents that can emulate human-level generality, inspired by the recent advances of [foundation models](https://blogs.nvidia.com/blog/2023/03/13/what-are-foundation-models/). 
+My primary research interests lie at the intersection of statistical decision theory, multi-goal reinforcement learning, and self-supervised representation learning. 
+In particular, I’m interested in how we can extract robust behavioural priors from massive offline datasets.
 
-I am also fascinated by the intersection of machine learning and systems, designing a runtime that supports efficient training and inference of machine learning models at scale.
-Finding subquadratic attention operators that can be efficiently implemented with optimizations like kernel fusion and tiling will be critical for long-horizon decision making agents.
+I am also fascinated by the intersection of machine learning and systems, designing a runtime that supports efficient training and inference at scale.
+Developing subquadratic attention operators with efficient hardware co-design will be critical for modelling temporal correlations in long-horizon problems.
 
 <hr>
