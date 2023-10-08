@@ -2,10 +2,10 @@
 layout: page
 permalink: /music/
 title: Music
-description: Music has always been a part of my life. Growing up, I played several instruments, including piano and guitar. Recently, I've learned to DJ and enjoy mixing various genres. 
+description:
 nav: true
 nav_order: 5
-display_categories: [Piano, Drum & Bass]
+display_categories: [Piano, Drum & Bass, House]
 horizontal: false
 ---
 <!-- pages/projects.md -->
