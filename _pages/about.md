@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I’m currently working in [deep reinforcement learning at RBC](https://www.rbccm.com/en/expertise/electronic-trading/ai-trading.page). 
 On the research front, I’m building predictive models that tackle the [order routing problem](https://en.wikipedia.org/wiki/Smart_order_routing) and investigating compression-based self-supervised objectives to accelerate learning in sparse reward environments. 
-Previously, I developed a multi-objective reinforcement learning framework *(patent pending)* for personalized trading that enables few-shot adaptation across client trading preferences. 
+Previously, I developed a [patented multi-objective reinforcement learning framework for personalized trading](https://patents.google.com/patent/US20230316088A1/en?oq=18%2f130776) that enables few-shot adaptation across client trading preferences. 
 On the engineering side, I’m focused on increasing learning throughput, lowering GPU memory requirements in our training stack, and developing architectural changes for efficient market data sequence modelling.
 
 Before RBC, I was a researcher at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/), applying machine learning to solve problems in cancer genomics. 

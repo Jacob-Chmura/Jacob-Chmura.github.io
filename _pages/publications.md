@@ -19,7 +19,7 @@ nav_order: 2
 <h1>talks</h1>
 {% bibliography -f talks %}
 
-<h1>patents (pending)</h1>
+<h1>patents</h1>
 {% bibliography -f patents %}
 
 </div>
