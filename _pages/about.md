@@ -6,9 +6,9 @@ subtitle:
 
 profile:
   align: center
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  address: 📍 Toronto, Canada
+  image: prof_pic.png
+  image_circular: false # crops the image to make it circular
+  address: 📍 Montréal, Canada
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -18,20 +18,12 @@ social: true # includes social icons at the bottom of the page
 
 <hr>
 
-I’m currently working in [deep reinforcement learning at RBC](https://www.rbccm.com/en/expertise/electronic-trading/ai-trading.page). 
-On the research front, I’m building predictive models that tackle the [order routing problem](https://en.wikipedia.org/wiki/Smart_order_routing) and investigating compression-based self-supervised objectives to accelerate learning in sparse reward environments. 
-Previously, I developed a [patented multi-objective reinforcement learning framework for personalized trading](https://patents.google.com/patent/US20230316088A1/en?oq=18%2f130776) that enables few-shot adaptation across client trading preferences. 
-On the engineering side, I’m focused on increasing learning throughput, lowering GPU memory requirements in our training stack, and developing architectural changes for efficient market data sequence modelling.
+I have just begun my M.Sc. Computer science at [Mila](https://mila.quebec/en) under the supervision of [Prof. Nicolas Le Roux](https://nicolas.le-roux.name/) and [Prof. Reihaneh Rabbany](http://www.reirab.com/).
 
-Before RBC, I was a researcher at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/), applying machine learning to solve problems in cancer genomics. 
-Specifically, I investigated how Bayesian methods, ensembles, and second-order optimization could reduce rare cancer misclassification. 
-I also worked on an [information-theoretic algorithm](https://pubmed.ncbi.nlm.nih.gov/31797603/) that segments the genome based on regional mutation density patterns, reducing the number of mutations required to discriminate cancer types.
+I have spent the last 4 years working as a machine learning engineer in [deep reinforcement learning at RBC](https://www.rbccm.com/en/expertise/electronic-trading/ai-trading.page) where I had the opportunity to lead the research, architecture and development of an end-to-end system that adresses the [order routing problem](https://en.wikipedia.org/wiki/Smart_order_routing). Before that, I developed a [patented multi-objective reinforcement learning framework for personalized trading](https://patents.google.com/patent/US20230316088A1/en?oq=18%2f130776) that enables few-shot adaptation to client trading preferences.
 
-My long-term goal is to build embodied decision-making agents that can emulate human-level generality, inspired by the recent advances of [foundation models](https://blogs.nvidia.com/blog/2023/03/13/what-are-foundation-models/). 
-My primary research interests lie at the intersection of statistical decision theory, multi-goal reinforcement learning, and self-supervised representation learning. 
-In particular, I’m interested in how we can extract robust behavioural priors from massive offline datasets.
+Before RBC, I was a researcher at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/), applying machine learning to problems in cancer genomics. I published an information-theoretic dynamic programming algorithm that segments the genome based on regional mutation density patterns, reducing the number of mutations required to discriminate cancer types.
 
-I am also fascinated by the intersection of machine learning and systems, designing a runtime that supports efficient training and inference at scale.
-Developing subquadratic attention operators with efficient hardware co-design will be critical for modelling temporal correlations in long-horizon problems.
+My long-term goal is to build embodied decision-making agents that emulate human-level generality, inspired by the recent advances of [foundation models](https://blogs.nvidia.com/blog/2023/03/13/what-are-foundation-models/). I am also fascinated by the intersection of machine learning and computer systems and building ML software that scales.
 
 <hr>
